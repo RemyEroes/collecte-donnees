@@ -1,0 +1,104 @@
+[
+  {
+    "brand": "Rossignol",
+    "origin_country": "France",
+    "cca2": "FR",
+    "cca3": "FRA"
+  },
+  {
+    "brand": "Salomon",
+    "origin_country": "France",
+    "cca2": "FR",
+    "cca3": "FRA"
+  },
+  {
+    "brand": "Dynastar",
+    "origin_country": "France",
+    "cca2": "FR",
+    "cca3": "FRA"
+  },
+  {
+    "brand": "Black Crows",
+    "origin_country": "France",
+    "cca2": "FR",
+    "cca3": "FRA"
+  },
+  {
+    "brand": "Atomic",
+    "origin_country": "Austria",
+    "cca2": "AT",
+    "cca3": "AUT"
+  },
+  {
+    "brand": "Fischer",
+    "origin_country": "Austria",
+    "cca2": "AT",
+    "cca3": "AUT"
+  },
+  {
+    "brand": "Head",
+    "origin_country": "Austria",
+    "cca2": "AT",
+    "cca3": "AUT"
+  },
+  {
+    "brand": "Blizzard",
+    "origin_country": "Austria",
+    "cca2": "AT",
+    "cca3": "AUT"
+  },
+  {
+    "brand": "Kästle",
+    "origin_country": "Austria",
+    "cca2": "AT",
+    "cca3": "AUT"
+  },
+  {
+    "brand": "Völkl",
+    "origin_country": "Germany",
+    "cca2": "DE",
+    "cca3": "DEU"
+  },
+  {
+    "brand": "Stöckli",
+    "origin_country": "Switzerland",
+    "cca2": "CH",
+    "cca3": "CHE"
+  },
+  {
+    "brand": "Faction",
+    "origin_country": "Switzerland",
+    "cca2": "CH",
+    "cca3": "CHE"
+  },
+  {
+    "brand": "Nordica",
+    "origin_country": "Italy",
+    "cca2": "IT",
+    "cca3": "ITA"
+  },
+  {
+    "brand": "Elan",
+    "origin_country": "Slovenia",
+    "cca2": "SI",
+    "cca3": "SVN"
+  },
+  {
+    "brand": "K2",
+    "origin_country": "United States",
+    "cca2": "US",
+    "cca3": "USA"
+  },
+  {
+    "brand": "Armada",
+    "origin_country": "United States",
+    "cca2": "US",
+    "cca3": "USA"
+  },
+  {
+    "brand": "Line Skis",
+    "origin_country": "United States",
+    "cca2": "US",
+    "cca3": "USA"
+  }
+]

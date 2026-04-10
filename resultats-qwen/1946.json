@@ -1,0 +1,41 @@
+[
+    {
+        "rank": 1,
+        "bib": 1,
+        "fis_code": "SCHWABL Thaddäus",
+        "name": "SCHWABL Thaddäus",
+        "year_birth": 1946,
+        "country_code": "AUT",
+        "time_raw": "3.01,01",
+        "diff_raw": "+0.01",
+        "distance": 3.0,
+        "points": 3.0,
+        "ski": "DH"
+    },
+    {
+        "rank": 2,
+        "bib": 2,
+        "fis_code": "KOLLER Karl",
+        "name": "KOLLER Karl",
+        "year_birth": 1946,
+        "country_code": "AUT",
+        "time_raw": "3.03,06",
+        "diff_raw": "+0.05",
+        "distance": 3.0,
+        "points": 3.0,
+        "ski": "DH"
+    },
+    {
+        "rank": 3,
+        "bib": 3,
+        "fis_code": "SEELOS Toni",
+        "name": "SEELOS Toni",
+        "year_birth": 1946,
+        "country_code": "AUT",
+        "time_raw": "3.08,00",
+        "diff_raw": "+0.02",
+        "distance": 3.0,
+        "points": 3.0,
+        "ski": "DH"
+    }
+]

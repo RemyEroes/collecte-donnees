@@ -1,0 +1,54 @@
+[
+    {
+        "rank": 1,
+        "bib": 1,
+        "fis_code": "FEIX Karl",
+        "name": "FEIX Karl",
+        "year_birth": 1947,
+        "country_code": "AUT",
+        "time_raw": "3.36,00",
+        "diff_raw": "+0.00",
+        "distance": 3.36,
+        "points": 3.36,
+        "ski": "DH"
+    },
+    {
+        "rank": 2,
+        "bib": 2,
+        "fis_code": "HAIDER Engele",
+        "name": "HAIDER Engele",
+        "year_birth": 1947,
+        "country_code": "AUT",
+        "time_raw": "3.39,00",
+        "diff_raw": "+0.01",
+        "distance": 3.39,
+        "points": 3.39,
+        "ski": "DH"
+    },
+    {
+        "rank": 3,
+        "bib": 3,
+        "fis_code": "PRAVDA Christian",
+        "name": "PRAVDA Christian",
+        "year_birth": 1947,
+        "country_code": "AUT",
+        "time_raw": "3.39,00",
+        "diff_raw": "+0.00",
+        "distance": 3.39,
+        "points": 3.39,
+        "ski": "DH"
+    },
+    {
+        "rank": 4,
+        "bib": 4,
+        "fis_code": "KNEISSL Eberhard",
+        "name": "KNEISSL Eberhard",
+        "year_birth": 1947,
+        "country_code": "AUT",
+        "time_raw": "3.46,1",
+        "diff_raw": "+0.00",
+        "distance": 3.46,
+        "points": 3.46,
+        "ski": "DH"
+    }
+]
